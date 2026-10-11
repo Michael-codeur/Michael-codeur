@@ -59,7 +59,6 @@ Projet de comparaison de prix permettant de rechercher des produits et de compar
 
 **Technologies :** Python · FastAPI · Playwright · PostgreSQL
 
-*Ajoute ici le lien du dépôt lorsque celui-ci est prêt à être présenté.*
 
 ---
 
